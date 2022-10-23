@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0d4d432-0b2f-4b44-9d7b-498f35d20361": {
+      "ProjectGuid": "d0d4d432-0b2f-4b44-9d7b-498f35d20361",
+      "DisplayName": "aspnet-sendgrid-mailing",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

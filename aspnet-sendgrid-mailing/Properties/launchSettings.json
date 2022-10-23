@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "aspnet_sendgrid_mailing": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
